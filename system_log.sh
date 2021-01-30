@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#Fernando Méndez, 15/15/2019.
+#Fernando Méndez, 15/12/2019.
 
 
 # - Cabecera:
